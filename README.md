@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2AC3DE&center=true&vCenter=true&width=760&height=60&lines=Networks+%26+Telecom+Engineering+Student+%40+INSAT;Cloud+DevOps+%C2%B7+Kubernetes+%C2%B7+Infrastructure+as+Code;AWS+Certified+%C3%973+%C2%B7+Building+AIOps+%26+agentic+systems;Seeking+a+6-month+PFE+internship+%E2%80%94+Feb+2027" alt="Networks Engineer - Cloud DevOps - AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2AC3DE&center=true&vCenter=true&width=760&height=60&lines=Networks+%26+Telecom+Engineering+Student+%40+INSAT;Cloud+DevOps+%C2%B7+Kubernetes+%C2%B7+Infrastructure+as+Code;AWS+Certified+%C3%973+%C2%B7+Building+AIOps+%26+agentic+systems" alt="Networks Engineer - Cloud DevOps - AI" />
 
 ### Mdimagh Momtez
 
 **Networks Engineer** · Cloud & DevOps · AI enthusiast<br/>
-Tunis, Tunisia — open to relocate
+Tunis, Tunisia
 
 <a href="https://www.linkedin.com/in/momtez-mdimagh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:momtez.mdimagh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -19,11 +19,7 @@ Tunis, Tunisia — open to relocate
 
 ## 👨‍💻 About me
 
-- 🎓 Engineering student at **INSAT** (National Institute of Applied Science and Technology) — Networks & Telecommunications, minor in **Cloud Computing**, graduating 2027.
-- 🛡️ At **Talan** I built **Aegis**, a Kubernetes security gate: a deterministic policy-as-code engine (OPA/Conftest, kube-linter, kubeconform) enforcing CIS/PSS-mapped checks on every CI build, plus a bounded, RAG-grounded AI agent that proposes verified JSON-Patch fixes and opens a merge request for a human to approve.
-- 📈 My thread is **AIOps**: anomaly detection over cloud metrics, Terraform-provisioned infrastructure, Prometheus/Grafana observability, and LLM agents that stay inside guardrails and get measured against acceptance criteria.
-- 🔭 Looking for a **6-month end-of-studies internship (PFE) starting February 2027** — Cloud/DevOps, SRE, or Applied AI. Open to relocate.
-- 🗣️ English (professional) · French (professional) · Arabic (native) · German (A2).
+🎓 Engineering student at **INSAT** (National Institute of Applied Science and Technology) — Networks & Telecommunications, minor in **Cloud Computing**, graduating 2027.
 
 ---
 
@@ -42,52 +38,11 @@ Tunis, Tunisia — open to relocate
 
 ## 🧰 Tech stack
 
-<table>
-<tr><td><b>Cloud &amp; IaC</b></td><td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</td></tr>
-<tr><td><b>Policy &amp; Security</b></td><td>
-<img src="https://img.shields.io/badge/Open_Policy_Agent-7D9199?style=flat-square" alt="Open Policy Agent" />
-<img src="https://img.shields.io/badge/Conftest-7D9199?style=flat-square" alt="Conftest" />
-<img src="https://img.shields.io/badge/kube--linter-326CE5?style=flat-square" alt="kube-linter" />
-<img src="https://img.shields.io/badge/kubeconform-326CE5?style=flat-square" alt="kubeconform" />
-<img src="https://img.shields.io/badge/CIS_%2F_Pod_Security_Standards-1A1B27?style=flat-square" alt="CIS / Pod Security Standards" />
-</td></tr>
-<tr><td><b>CI/CD</b></td><td>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</td></tr>
-<tr><td><b>Observability</b></td><td>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" alt="CloudWatch" />
-</td></tr>
-<tr><td><b>AI &amp; Automation</b></td><td>
-<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square" alt="Azure OpenAI" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-</td></tr>
-<tr><td><b>Languages &amp; Backend</b></td><td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</td></tr>
-</table>
+<div align="center">
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,linux,jenkins,gitlab,githubactions,git,prometheus,grafana,elasticsearch,python,tensorflow,pytorch,sklearn,ts,nestjs,java,spring,graphql,postgres&perline=12" alt="Tech stack" /></a>
+
+</div>
 
 ---
 
@@ -96,8 +51,6 @@ Tunis, Tunisia — open to relocate
 | Project | What it does | Stack |
 |---|---|---|
 | **[AIOps_AWS](https://github.com/MomtezMdimagh/AIOps_AWS)** | Autonomous AIOps platform for AWS monitoring — anomaly detection and automated alerting over CloudWatch metrics (Isolation Forest + LSTM forecasting), triggering SNS/Lambda on detected incidents. | Python · AWS · Terraform · Docker · Prometheus/Grafana |
-| **Aegis** <sub>(Talan · private)</sub> | Kubernetes security gate — a deterministic policy-as-code engine gating every CI build, plus a bounded AI remediation agent proposing verified JSON-Patch fixes through a merge request. ~92% precision / ~88% recall / ~85% fix-success on a labeled 30-manifest corpus. | OPA/Conftest · Azure OpenAI (RAG) · Jenkins · GitLab CI · Kubernetes |
-| **Intelligent Credit Platform** | Loan-intake automation — OCR extraction, LLM verification of extracted fields against applicant-declared data, automated scoring, exposed over a REST API. | n8n · Python · LLMs · OCR |
 | **[langchain-course](https://github.com/MomtezMdimagh/langchain-course)** | Project-based build-out of AI agents: search agents, RAG systems, reflection agents, code interpreters. | LangChain v1+ · LangGraph · Python |
 
 ---
@@ -152,7 +105,6 @@ Tunis, Tunisia — open to relocate
 
 <div align="center">
 
-**Open to a 6-month PFE internship from February 2027** — Cloud/DevOps · SRE · Applied AI<br/>
 Reach me at [momtez.mdimagh@gmail.com](mailto:momtez.mdimagh@gmail.com)
 
 ⚡ *Fun fact: I got into infrastructure through CTFs — breaking things taught me how to gate them.*
