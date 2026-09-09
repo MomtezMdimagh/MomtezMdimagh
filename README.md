@@ -19,7 +19,7 @@ Tunis, Tunisia
 
 ## 👨‍💻 About me
 
-🎓 Engineering student at **INSAT** (National Institute of Applied Science and Technology) — Networks & Telecommunications, minor in **Cloud Computing**, graduating 2027.
+🎓 Engineering student at **INSAT** (National Institute of Applied Science and Technology) — Networks & Telecommunications, minor in **Machine Learning & AI**, graduating 2027.
 
 ---
 
