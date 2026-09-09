@@ -46,15 +46,6 @@ Tunis, Tunisia
 
 ---
 
-## 🚀 Featured work
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[AIOps_AWS](https://github.com/MomtezMdimagh/AIOps_AWS)** | Autonomous AIOps platform for AWS monitoring — anomaly detection and automated alerting over CloudWatch metrics (Isolation Forest + LSTM forecasting), triggering SNS/Lambda on detected incidents. | Python · AWS · Terraform · Docker · Prometheus/Grafana |
-| **[langchain-course](https://github.com/MomtezMdimagh/langchain-course)** | Project-based build-out of AI agents: search agents, RAG systems, reflection agents, code interpreters. | LangChain v1+ · LangGraph · Python |
-
----
-
 ## 💼 Experience
 
 | Role | Where | When |
@@ -63,8 +54,6 @@ Tunis, Tunisia
 | AI Engineering Intern | **Sigma Lending** *(remote)* | Sep 2025 – Nov 2025 |
 | Backend Developer *(part-time)* | **Fliggs Mobile** *(remote)* | Jun 2025 – Dec 2025 |
 | DevOps Intern | **MedSirat** | Jul 2025 – Aug 2025 |
-
-🏆 CyberSphere CTF — **2nd place** (SecuriNets INSAT) · Seneca Hacks — **Top 10 finalist** · Junior Enterprise INSAT (Project Cell) · IEEE INSAT
 
 ---
 
