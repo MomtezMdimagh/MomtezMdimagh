@@ -96,6 +96,4 @@ Tunis, Tunisia
 
 Reach me at [momtez.mdimagh@gmail.com](mailto:momtez.mdimagh@gmail.com)
 
-⚡ *Fun fact: I got into infrastructure through CTFs — breaking things taught me how to gate them.*
-
 </div>
