@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2AC3DE&center=true&vCenter=true&width=760&height=60&lines=Networks+%26+Telecom+Engineering+Student+%40+INSAT;Cloud+DevOps+%C2%B7+Kubernetes+%C2%B7+Infrastructure+as+Code;AWS+Certified+%C3%973+%C2%B7+Building+AIOps+%26+agentic+systems" alt="Networks Engineer - Cloud DevOps - AI" />
 
-### Mdimagh Momtez
+### Momtez Mdimagh
 
 **Networks Engineer** · Cloud & DevOps · AI enthusiast<br/>
 Tunis, Tunisia
